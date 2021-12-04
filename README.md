@@ -1,7 +1,9 @@
+Vist Web Application: [https://github.com/ajibade3210/repo_name](https://ajibade3210.github.io/gpt03-webapp/)
+
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![GPT3 Web Application][project-screenshot]](https://ibb.co/GsM1n8t)
+[![Product Name Screen Shot][product-screenshot]](https://ibb.co/GsM1n8t)
 
 GPT-3 is trained to generate realistic human text. GPT-3 has been used to create articles, poetry, stories, news reports and dialogue using just a small amount of input text that can be used to produce large amounts of quality copy.
 
@@ -33,7 +35,7 @@ _Below is an example of how you can  install and set up the app. This template d
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your_username_/Project-Name.git
+   git clone https://github.com/ajibade3210/repo_name.git
    ```
 2. Install NPM packages
    ```sh
@@ -52,7 +54,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@your_twitter](https://twitter.com/ajibadde) - holaszyd1@gmail.com
 
-Project Link: [https://github.com/ajibade3210/repo_name](https://github.com/ajibade320/repo_name)
+Project Link: [https://github.com/ajibade3210/repo_name](https://ajibade3210.github.io/gpt03-webapp/)
 
 
 <!-- ACKNOWLEDGMENTS -->
