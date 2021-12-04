@@ -1,4 +1,4 @@
-Vist Web Application: [https://github.com/ajibade3210/repo_name](https://ajibade3210.github.io/gpt03-webapp/)
+Vist Web Application: [https://github.com/ajibade3210/gpt03-webapp](https://ajibade3210.github.io/gpt03-webapp/)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
