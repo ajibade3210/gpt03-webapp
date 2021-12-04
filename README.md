@@ -3,7 +3,7 @@ Vist Web Application: [https://github.com/ajibade3210/repo_name](https://ajibade
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[GPT03](https://i.ibb.co/cb8pkZC/Screenshot-2021-12-04-013932.png/)
+![GPT03](https://i.ibb.co/cb8pkZC/Screenshot-2021-12-04-013932.png/)
 
 GPT-3 is trained to generate realistic human text. GPT-3 has been used to create articles, poetry, stories, news reports and dialogue using just a small amount of input text that can be used to produce large amounts of quality copy.
 
